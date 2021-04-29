@@ -13,8 +13,9 @@ mail.port: 25
 mail.username: ''
 mail.password: ''
 mail.use-tls: false
+mail.use-ssl: false
 # The email address to send on behalf of
-mail.from: 'sentry@generalbytes.com'
+mail.from: 'sentry@localhost.com'
 
 # If you'd like to configure email replies, enable this.
 # mail.enable-replies: true
